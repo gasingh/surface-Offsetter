@@ -1,4 +1,5 @@
-# surface-Offsetter
+# SURFACE OFFSETTER
+
 A nurbs surface offsetter with boundary controls
 
 ---
